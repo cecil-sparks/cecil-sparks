@@ -31,6 +31,7 @@ I am an IT professional and graduate student passionate about GRC (Governance, R
 * **Financial Analytics:** Departmental monthly budget tracking, resource allocation, and operational procurement analysis via Oracle I-Procurement.
 
 ## Featured Practical Projects
-* **Enterprise Active Directory Home Lab:** Implemented an automated Windows Server 2022 domain environment simulating organizational IAM control policies.
-* **Proxmox Virtual Environment Deployment:** Engineered a multi-tenant virtual layout utilizing isolated VLAN networks and custom traffic filtering rules.
-* **Hardware Diagnostics & Performance Case Study:** Documented deep-dive technical troubleshooting logs tracking bare-metal infrastructure stress limits.
+* **Enterprise Active Directory Deployment:** Architected a Windows Server 2022 domain environment to enforce enterprise-level Identity and Access Management (IAM) and security control policies.
+* **Proxmox Virtual Infrastructure Architecture:** Engineered a multi-tenant hypervisor environment utilizing segmented VLAN networks and virtual firewalls to enforce network isolation.
+* **Hardware Lifecycle & Bare-Metal Optimization:** Managed hardware configuration and diagnostic reporting logs tracking compute, thermal, and storage infrastructure performance constraints.
+
