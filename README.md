@@ -2,16 +2,16 @@
 
 **IT & GRC Analyst | Cybersecurity | Infrastructure Engineering | Systems Administration**
 
-I am an IT professional and MSIS graduate passionate about GRC (Governance, Risk, and Compliance), cloud infrastructure, identity management, and secure systems administration. I focus on bridging the gap between high-stakes public-sector operations and robust enterprise IT solutions, solving complex technical problems, and implementing secure workflows.
+I am an IT professional and graduate student passionate about GRC (Governance, Risk, and Compliance), cloud infrastructure, identity management, and secure systems administration. I focus on bridging the gap between high-stakes public-sector operations and robust enterprise IT solutions, solving complex technical problems, and implementing secure workflows.
 
-## Education
-* **M.S. in Information Systems (MSIS)** – Tarleton State University
+## Education & Academic Training
+* **M.S. in Information Systems (MSIS)** – Tarleton State University (In Progress)
 * **B.S. in Criminal Justice Administration** – Tarleton State University
+* **ITSY-1300 (Information Security Fundamentals)** – Dallas College (Completed)
 
 ## Certifications & Training
 * **CompTIA Security+** (In Progress)
 * **CompTIA Network+** (In Progress)
-* **ITSY-1300 (Information Security Fundamentals)** – Dallas College
 
 ## Technical Skills & Areas of Study
 
